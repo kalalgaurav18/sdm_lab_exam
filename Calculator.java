@@ -1,6 +1,8 @@
 public class Calculator {
 
 	public static double res;
+
+	//add function 
 	public static double add(double a, double b) {
 
 		res = a+b;
